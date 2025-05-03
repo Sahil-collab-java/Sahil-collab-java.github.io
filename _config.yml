@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sahil Rangari # the main title
+title: Sahil # the main title
 
 tagline: Software Engineer | Java | Spring Boot | Microservices & AWS | Building Robust & Scalable Applications. # it will display as the subtitle
 
