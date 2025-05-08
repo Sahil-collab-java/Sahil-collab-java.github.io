@@ -48,7 +48,7 @@ Protocols define how devices communicate. The most important ones are part of th
 
 ### 🌐 **5. DNS (Domain Name System)**
 
-- Resolves domain names (like [www.example.com](http://www.example.com/)) into IP addresses.
+- Resolves domain names (like [www.example.com]) into IP addresses.
 - Critical for accessing websites and services by name instead of numeric IPs.
 
 ---
