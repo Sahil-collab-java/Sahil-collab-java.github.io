@@ -2,7 +2,7 @@
 title: Network Models
 author: Sahil
 date: 2025-05-07 
-categories: [Computer Network]
+categories: [Computer Network, Introduction to Networking]
 tags: [peer-to-peer , client-server]
 ---
 
@@ -38,7 +38,7 @@ tags: [peer-to-peer , client-server]
 
 ---
 
-### 🧠 **Summary (English)**
+### 🧠 **Summary **
 
 > In a P2P network, every computer acts independently—there’s no central authority. Each device manages its own security and resources. Figure 1-1  illustrates its mesh-style topology. It’s ideal for simple, decentralized setups.
 > 
@@ -84,7 +84,7 @@ tags: [peer-to-peer , client-server]
 
 ---
 
-### 🧠 **Summary (English)**
+### 🧠 **Summary **
 
 > The Client–Server model is a centralized network setup where the server manages everything using a NOS and a central database (like Active Directory). Clients send requests but the server maintains control. This model is more powerful than P2P and ideal for larger networks. Figure 1-2 (Pg 5) illustrates this structure.
 >
