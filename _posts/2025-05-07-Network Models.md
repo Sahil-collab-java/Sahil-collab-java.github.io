@@ -1,6 +1,5 @@
 ---
 title: Network Models
-author: Sahil
 date: 2025-05-07 
 categories: [Computer Network, Introduction to Networking]
 tags: [peer-to-peer , client-server]
