@@ -402,6 +402,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 | **2-Post** | Lightweight, open frame | Ideal for patch panels, light switches |
 | **4-Post** | Stronger, supports deeper/heavier gear | Good for servers, enclosed models available |
 | **6-Post** | Rare, extra support for large systems | Seen in dense enterprise setups |
+
 - **Open Frame:** Easy access, good for ventilation.
 - **Enclosed:** Physical security + dust protection.
 - **Mounting Options:** Wall-mounted, freestanding, bolted to floor.
@@ -542,6 +543,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 | **UTP** | Unshielded Twisted Pair—basic, flexible, cost-effective | Standard Ethernet LAN |
 | **STP** | Shielded Twisted Pair—extra shielding for interference protection | Industrial / high EMI zones |
 | **Fiber-Optic** | Glass/plastic core, light signal, two types: **SMF** & **MMF** | Long-distance, backbone links |
+
 - **SMF (Single Mode Fiber):** Long-range, high bandwidth (usually laser).
 - **MMF (Multimode Fiber):** Shorter distance, cheaper (usually LED).
 
