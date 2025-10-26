@@ -218,7 +218,7 @@ exclude:
   
 include:
   - images
-  - assets/images
+ 
 
 jekyll-archives:
   enabled: [categories, tags]
