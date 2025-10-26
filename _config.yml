@@ -217,7 +217,7 @@ exclude:
   - "package*.json"
   
 include:
-  - images
+  - assets/images
  
 
 jekyll-archives:
