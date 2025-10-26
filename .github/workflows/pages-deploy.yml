@@ -53,7 +53,7 @@ jobs:
       - name: List images in built site
         run: |
           echo "Listing images in built site:"
-          find "_site${{ steps.pages.outputs.base_path }}/images" -type f
+          find "_site" -type f
 
     
       - name: Test site with HTMLProofer
