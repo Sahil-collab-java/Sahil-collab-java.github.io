@@ -70,6 +70,9 @@ jobs:
       #   with:
       #     path: "_site${{ steps.pages.outputs.base_path }}"
 
+      - name: Clean site
+        run: bundle exec jekyll clean
+
       - name: Build site
         run: bundle exec jekyll build -d "_site"
         env:
