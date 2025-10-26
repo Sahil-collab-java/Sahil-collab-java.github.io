@@ -16,4 +16,4 @@ order: 4
 
 **Here is my Resume :** 
 
-[SR_Resume.pdf](file/resume/SR_Resume.pdf)
+[SR_Resume.pdf](file/resume/resume.pdf)
