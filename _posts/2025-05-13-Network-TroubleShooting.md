@@ -95,4 +95,4 @@ tags: [troubleshooting,documentation]
 - Notify users, back up everything, and plan for rollback.
 - After fixing the problem, think prevention — monitoring, documentation, and maintenance.
 
-![image.png](images/2025-05-13-Network-TroubleShooting/image.png)
+![image.png](assets/images/2025-05-13-Network-TroubleShooting/image.png)

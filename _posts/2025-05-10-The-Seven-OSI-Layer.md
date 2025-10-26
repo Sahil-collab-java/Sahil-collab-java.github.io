@@ -66,7 +66,7 @@ When facing a network issue, I'd start from the bottom layer upward:
 
 ---
 
-![image.png](images/2025-05-10-The-Seven-OSI-Layer/image.png)
+![image.png](assets/images/2025-05-10-The-Seven-OSI-Layer/image.png)
 
 ### 📦 Real-World Analogy:
 
@@ -82,7 +82,7 @@ Just like the postal service:
 
 ---
 
-![image.png](images/2025-05-10-The-Seven-OSI-Layer/image1.png)
+![image.png](assets/images/2025-05-10-The-Seven-OSI-Layer/image1.png)
 
 ## 🟣 Layer 7: Application Layer – OSI Model 🧠
 
@@ -282,7 +282,7 @@ When data arrives, headers are **removed in reverse order**—this is **decapsul
 
 ---
 
-![image.png](images/2025-05-10-The-Seven-OSI-Layer/image2.png)
+![image.png](assets/images/2025-05-10-The-Seven-OSI-Layer/image2.png)
 
 ### 🪜 Step-by-Step Example:
 

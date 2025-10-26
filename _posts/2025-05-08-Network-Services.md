@@ -41,7 +41,7 @@ Protocols define how devices communicate. The most important ones are part of th
 - **IMAP4:** Keeps email on server for multi-device access.
 - Encryption via **SSL/TLS** ensures secure transmission.
 
-![image.png](images/2025-05-08-Network-Services/image1.png)
+![image.png](assets/images/2025-05-08-Network-Services/image1.png)
 
 ---
 
@@ -75,7 +75,7 @@ Protocols define how devices communicate. The most important ones are part of th
 - **SSH:** Secure, encrypted command-line access.
 - **RDP:** Graphical remote access on Windows.
 
-![image.png](images/2025-05-08-Network-Services/image2.png)
+![image.png](assets/images/2025-05-08-Network-Services/image2.png)
 
 🔐 *Remote access must be secured to avoid unauthorized entry.*
 

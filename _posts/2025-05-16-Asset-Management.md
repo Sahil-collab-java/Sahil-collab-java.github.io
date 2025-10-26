@@ -55,7 +55,7 @@ Asset management isn't just about documentation, my friend! It's essential to pl
 
 ---
 
-![image.png](images/2025-05-16-Asset-Management/image.png)
+![image.png](assets/images/2025-05-16-Asset-Management/image.png)
 
 ### **4. Fault Tolerance Components**
 

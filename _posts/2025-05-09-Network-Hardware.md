@@ -26,7 +26,7 @@ tags: [topology,switch,hubs,router,pan,lan,can,man,wan]
     - 1 Scanner
     - 1 Windows Server
 
-![image.png](images/2025-05-09-Network-Hardware/image.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image.png)
 
 ### Printer Types:
 
@@ -62,7 +62,7 @@ tags: [topology,switch,hubs,router,pan,lan,can,man,wan]
 - Efficient: sends data only to the target device, unlike old hubs which broadcasted to all.
 - Central switch-based layout = star topology.
 
-![image.png](images/2025-05-09-Network-Hardware/image1.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image1.png)
 
 ### 🧱 Hubs (Old Tech):
 
@@ -78,9 +78,9 @@ tags: [topology,switch,hubs,router,pan,lan,can,man,wan]
     - Modular NIC → plugs into an expansion slot (Figure 1-10).
 - Both types are generally referred to as NICs (Network Interface Cards).
 
-![image.png](images/2025-05-09-Network-Hardware/image2.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image2.png)
 
-![image.png](images/2025-05-09-Network-Hardware/image3.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image3.png)
 
 ### 🕸 Topologies:
 
@@ -97,14 +97,14 @@ tags: [topology,switch,hubs,router,pan,lan,can,man,wan]
     - Combination of topologies (e.g., switches in a star, but those switches linked in a bus).
     - Real-world networks are often hybrid.
 
-![image.png](images/2025-05-09-Network-Hardware/image4.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image4.png)
 
 1. **Hub-and-Spoke Topology (Ref: Figure 1-12):**
     - Central switch = hub.
     - Peripheral switches = spokes.
     - Each spoke has its own computers → overall structure is a centralized but distributed network.
 
-![image.png](images/2025-05-09-Network-Hardware/image5.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image5.png)
 
 ---
 
@@ -128,7 +128,7 @@ tags: [topology,switch,hubs,router,pan,lan,can,man,wan]
 - Combo devices are integrated solutions.
 - Don't confuse them with enterprise routers, where each port may link to a different LAN.
 
-![image.png](images/2025-05-09-Network-Hardware/image6.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image6.png)
 
 ### 🔁 Switch vs Router:
 
@@ -148,7 +148,7 @@ tags: [topology,switch,hubs,router,pan,lan,can,man,wan]
     - Each LAN has a separate IP/interface.
     - The router is a **multi-homed** device (has multiple IP addresses).
 
-![image.png](images/2025-05-09-Network-Hardware/image7.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image7.png)
 
 1. 🚪 Gateway Role:
     - The router serves as a **gateway** between networks.
@@ -194,7 +194,7 @@ tags: [topology,switch,hubs,router,pan,lan,can,man,wan]
 
 ---
 
-![image.png](images/2025-05-09-Network-Hardware/image8.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image8.png)
 
 ### 📌 2. Key Notes:
 
@@ -222,7 +222,7 @@ PAN  <  LAN  <  CAN ≈ MAN  <  WAN
 - **MAN/CAN** ≈ Campus or city
 - **WAN** ≈ Country to global
 
-![image.png](images/2025-05-09-Network-Hardware/image9.png)
+![image.png](assets/images/2025-05-09-Network-Hardware/image9.png)
 
 ---
 

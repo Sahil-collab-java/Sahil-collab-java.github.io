@@ -24,7 +24,7 @@ Network documentation is the **best backup**, bro! Whether you forget something
     - **Logical Topology**: Shows how data flows (IPs, subnets, routing). *(Ex: Figure 2-22)*
 - **Importance**: Provides visual clarity for troubleshooting, planning, and documentation.
 
-![image.png](images/2025-05-15-Network-Documentation/image.png)
+![image.png](assets/images/2025-05-15-Network-Documentation/image.png)
 
 ### **OSI Layer-wise Diagrams**
 
@@ -46,7 +46,7 @@ Network documentation is the **best backup**, bro! Whether you forget something
 
 
 
-![image.png](images/2025-05-15-Network-Documentation/image1.png)
+![image.png](assets/images/2025-05-15-Network-Documentation/image1.png)
 
 ### **Cisco Symbols & Rack Diagrams**
 
@@ -59,7 +59,7 @@ Network documentation is the **best backup**, bro! Whether you forget something
 
 
 
-![image.png](images/2025-05-15-Network-Documentation/image2.png)
+![image.png](assets/images/2025-05-15-Network-Documentation/image2.png)
 
 ### **Key Takeaways**
 
@@ -188,7 +188,7 @@ Network documentation is the **best backup**, bro! Whether you forget something
 **Pro Tip**: Always document your naming convention rules in a shared wiki!
 
 
-![image.png](images/2025-05-15-Network-Documentation/image3.png)
+![image.png](assets/images/2025-05-15-Network-Documentation/image3.png)
 
 ### **What to Label? (Everything!)**
 

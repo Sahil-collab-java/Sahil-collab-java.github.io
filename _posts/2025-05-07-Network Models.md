@@ -25,7 +25,7 @@ tags: [peer-to-peer , client-server]
 
 ### 🔹 **Diagram Reference**
 
-![image.png](images/2025-05-07-Network Models/image.png)
+![image.png](assets/images/2025-05-07-Network Models/image.png)
 
 - The diagram represents a **Mesh Topology**: each device is connected to multiple others, indicated by lines showing direct connections.
 
@@ -70,7 +70,7 @@ tags: [peer-to-peer , client-server]
 
 ### 🔹 **Diagram Reference**
 
-![image1.png](images/2025-05-07-Network Models/image1.png)
+![image1.png](assets/images/2025-05-07-Network Models/image1.png)
 
 - The diagram shows a **Windows Server domain controller** with connected clients (Windows, macOS, Ubuntu, etc.).
 - Physically, the network often uses a **Star Topology** (with the server as the central hub).
