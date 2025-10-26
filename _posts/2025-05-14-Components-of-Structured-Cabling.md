@@ -130,7 +130,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 ![image.png](images/2025-05-14-Components-of-Structured-Cabling/image.png)
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%201.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image1.png)
 
 ### **✅ Summary Flow:**
 
@@ -176,7 +176,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%202.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image2.png)
 
 ## **🧩 MDF (Main Distribution Frame)**
 
@@ -203,7 +203,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%203.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image3.png)
 
 ## **🧱 Data Room (aka TR/TE)**
 
@@ -253,7 +253,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%204.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image4.png)
 
 ## **📞 VoIP Telephone Equipment**
 
@@ -273,7 +273,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%205.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image5.png)
 
 ### **🧭 Summary: End-to-End Network Flow**
 
@@ -285,7 +285,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%206.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image6.png)
 
 ### **📡 IDF (Intermediate Distribution Frame)**
 
@@ -381,7 +381,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%207.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image7.png)
 
 ### **🧭 Summary Table**
 
@@ -411,7 +411,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%208.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image8.png)
 
 ### **📏 Rack Dimensions**
 
@@ -455,7 +455,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%209.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image9.png)
 
 ### **🌬️ Airflow & Cooling (Hot Aisle / Cold Aisle Concept)**
 
@@ -470,7 +470,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%2010.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image10.png)
 
 ### **🔁 Switch Placement Strategy**
 
@@ -486,7 +486,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%2011.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image11.png)
 
 ### **🎯 Quick Checklist When Selecting/Installing a Rack:**
 
@@ -524,7 +524,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
   
     
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%2012.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image12.png)
 
 1. **🔗 Backbone Cabling**
     - Connects EF ↔ MDF ↔ IDF.
@@ -549,7 +549,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%2013.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image13.png)
 
 ## **🧵 Tour Stop: Cable Management**
 
@@ -557,7 +557,7 @@ tags: [demarcationPoint ,mdf ,idf ,workstation ,backbonecabling ,horizontalcabli
 
 
 
-![image.png](images/2025-05-14-Components-of-Structured-Cabling/image%2014.png)
+![image.png](images/2025-05-14-Components-of-Structured-Cabling/image14.png)
 
 ### **🎯 Purpose of Cable Management**
 

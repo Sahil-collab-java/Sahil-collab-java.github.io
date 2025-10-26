@@ -46,7 +46,7 @@ Network documentation is the **best backup**, bro! Whether you forget something
 
 
 
-![image.png](images/2025-05-15-Network-Documentation/image%201.png)
+![image.png](images/2025-05-15-Network-Documentation/image1.png)
 
 ### **Cisco Symbols & Rack Diagrams**
 
@@ -59,7 +59,7 @@ Network documentation is the **best backup**, bro! Whether you forget something
 
 
 
-![image.png](images/2025-05-15-Network-Documentation/image%202.png)
+![image.png](images/2025-05-15-Network-Documentation/image2.png)
 
 ### **Key Takeaways**
 
@@ -188,7 +188,7 @@ Network documentation is the **best backup**, bro! Whether you forget something
 **Pro Tip**: Always document your naming convention rules in a shared wiki!
 
 
-![image.png](images/2025-05-15-Network-Documentation/image%203.png)
+![image.png](images/2025-05-15-Network-Documentation/image3.png)
 
 ### **What to Label? (Everything!)**
 

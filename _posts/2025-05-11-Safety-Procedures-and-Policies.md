@@ -238,4 +238,4 @@ tags: [emergency procedures,emergency alert system]
 
 📎 *Note*: Grounding = the third prong on a plug → routes to earth = safe path for stray current.
 
-![image.png](images/2025-05-11-Safety-Procedures-and-Policies/image%201.png)
+![image.png](images/2025-05-11-Safety-Procedures-and-Policies/image1.png)
