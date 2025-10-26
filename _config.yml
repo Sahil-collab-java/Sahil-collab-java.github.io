@@ -215,6 +215,10 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  
+include:
+  - images
+ 
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -224,3 +228,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+   
+
