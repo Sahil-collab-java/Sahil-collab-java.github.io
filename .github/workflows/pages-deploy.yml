@@ -50,15 +50,20 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
+      - name: List images in built site
+        run: |
+          echo "Listing images in built site:"
+          find "_site${{ steps.pages.outputs.base_path }}/images" -type f
+
     
-      # - name: Test site with HTMLProofer
-      #   run: |
-      #     echo "Running HTMLProofer on built site..."
-      #     bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
-      #       --disable-external \
-      #       --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
-      #   env:
-      #     JEKYLL_ENV: "production"
+      - name: Test site with HTMLProofer
+        run: |
+          echo "Running HTMLProofer on built site..."
+          bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
+            --disable-external \
+            --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+        env:
+          JEKYLL_ENV: "production"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
