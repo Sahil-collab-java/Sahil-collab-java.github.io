@@ -12,7 +12,7 @@ tags: [network protocols]
 - A **client device** (e.g., web browser) requests resources from a **server** (e.g., web server).
 - Devices can be on different networks (e.g., accessing a website over the Internet).
 
-![image.png](images/2025-05-08-Network-Services/image.png)
+![image.png](assets/images/2025-05-08-Network-Services/image.png)
 
 ---
 
