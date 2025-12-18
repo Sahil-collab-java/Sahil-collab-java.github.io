@@ -38,7 +38,7 @@ Sources can be:
 
 **All data ultimately lands in Elasticsearch** → Kibana visualizes it.
 
-![image.png](assets\images\2025-12-18-Elasticsearch\image.png)
+![image.png](assets/images/2025-12-18-Elasticsearch/image.png)
 
 ---
 
@@ -220,7 +220,7 @@ Recommended:
 
 Example:
 
-![image.png](assets\images\2025-12-18-Elasticsearch\image1.png)
+![image.png](assets/images/2025-12-18-Elasticsearch/image1.png)
 
 ---
 
@@ -273,7 +273,7 @@ Use browser:
 https://localhost:9200
 ```
 
-![image.png](assets\images\2025-12-18-Elasticsearch\image2.png)
+![image.png](assets/images/2025-12-18-Elasticsearch/image2.png)
 
 ### If SSL disabled:
 
@@ -281,7 +281,7 @@ https://localhost:9200
 http://localhost:9200
 ```
 
-![image.png](assets\images\2025-12-18-Elasticsearch\image3.png)
+![image.png](assets/images/2025-12-18-Elasticsearch/image3.png)
 
 Enter credentials.
 
